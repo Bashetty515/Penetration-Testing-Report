@@ -1,0 +1,25 @@
+What is the CVE and Micrpsoft reference of the vulnerability?
+CVE:2001:0500
+CVE:2001:0506
+
+What kind of vulnerability is?
+Buffer Overflow
+Buffer overflow:
+		Memory Correction
+
+When was the vulnerability discovered?
+
+JULY 13th, 2001.
+
+When was there a patch available to fix it?
+
+JUNE 18th,
+
+When did the outbreak start?
+
+JUNE 19th
+
+What can you conclude?
+
+
+
